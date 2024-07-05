@@ -105,7 +105,7 @@ export default defineComponent({
       }
 
       if (!primary_header.value) {
-        primary_header.value = 'Start building and innovating with our APIs'
+        primary_header.value = 'Start building and innovating with our KONG APIs'
       }
     }
 
